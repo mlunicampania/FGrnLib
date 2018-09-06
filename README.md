@@ -1,3 +1,3 @@
 # FGrnLib
 
-Versione 2.0 con calcoli logaritmici
+Version 2.0 with logarithmic calculations
